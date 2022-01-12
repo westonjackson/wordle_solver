@@ -1,2 +1,2 @@
-# wordle_solver
-Little notebook to optimally solve the wordle puzzle
+# Wordle Solver
+Solves the wordle puzzle game
